@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: college-notice-board
-          image: YOUR_DOCKERHUB_USERNAME/college-notice-board:latest
+          image: bbhavanasree/college-notice-board:latest
           ports:
             - containerPort: 80
 
